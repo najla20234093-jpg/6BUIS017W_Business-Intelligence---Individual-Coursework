@@ -1,0 +1,9 @@
+Ticker,Date,Close_return,Volume_vs_20d_mean,Decision
+BE,2024-11-15,0.592,8.2,retain: genuine price shock
+CVNA,2022-08-05,0.401,4.4,retain: genuine price shock
+CVNA,2022-12-07,-0.429,5.8,retain: genuine price shock
+CVNA,2023-01-12,0.46,5.6,retain: genuine price shock
+CVNA,2023-06-08,0.56,8.5,retain: genuine price shock
+CVNA,2023-07-19,0.402,4.2,retain: genuine price shock
+DXCM,2024-07-26,-0.407,19.4,retain: genuine price shock
+GL,2024-04-11,-0.531,26.1,retain: genuine price shock

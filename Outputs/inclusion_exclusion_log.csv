@@ -1,0 +1,18 @@
+Ticker,Stage,Reason
+APP,1.2 validation,missing data on 70 dates (late listing or gaps)
+COIN,1.2 validation,missing data on 69 dates (late listing or gaps)
+CEG,1.2 validation,missing data on 263 dates (late listing or gaps)
+EXE,1.2 validation,missing data on 26 dates (late listing or gaps)
+FDXF,1.2 validation,all prices missing
+FERG,1.2 validation,zero-volume days (27)
+GEHC,1.2 validation,missing data on 492 dates (late listing or gaps)
+GEV,1.2 validation,missing data on 812 dates (late listing or gaps)
+HONA,1.2 validation,all prices missing
+Q,1.2 validation,all prices missing
+RDDT,1.2 validation,missing data on 808 dates (late listing or gaps)
+HOOD,1.2 validation,missing data on 143 dates (late listing or gaps)
+SNDK,1.2 validation,all prices missing
+SW,1.2 validation,zero-volume days (424)
+SOLV,1.2 validation,missing data on 811 dates (late listing or gaps)
+VLTO,1.2 validation,missing data on 692 dates (late listing or gaps)
+VYLR,1.2 validation,all prices missing
